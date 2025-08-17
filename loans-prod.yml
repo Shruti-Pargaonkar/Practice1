@@ -7,7 +7,7 @@ build:
   version: "4.3"
 
 loans:
-  message: "Welcome to bankApp related Production APIs"
+  message: "Welcome to bankApp related prod APIs"
   contactDetails:
     name: "Roops Jain"
     email: "roops@gmail.com"
@@ -15,3 +15,4 @@ loans:
     - +91 9374520000
 
     - +91 6665553334
+
