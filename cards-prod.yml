@@ -2,10 +2,11 @@ build:
   version: "1.3"
 
 cards:
-  message: "Welcome to bankApp related prod APIs"
+  message: "Welcome to bankApp related production APIs"
   contactDetails:
     name: "Shruti Pargaonkar"
     email: "shrutipargaonkar@gmail.com"
   onCallSupport:
     - +91 9374520000
+
     - +91 6665553334
