@@ -2,7 +2,7 @@ build:
 version: "1.0"
 
 accounts:
-  message: "Welcome to bankApp related production APIs"
+  message: "Welcome to bankApp related prod APIs"
   contactDetails:
     name: "Shruti Pargaonkar"
     email: "{cipher}c7af371843a4f38d5fb9994ed58d2f7c2319e6e525ba4c3bfa3cba2d9c4076ae92377b3aaec76ef729874ef95d2b2f70"
@@ -10,4 +10,5 @@ accounts:
     - +91 9374520000
 
     - +91 6665553334
+
 
