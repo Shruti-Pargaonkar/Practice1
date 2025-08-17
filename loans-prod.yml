@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "4.3"
+
+loans:
+  message: "Welcome to bankApp related Prod APIs"
+  contactDetails:
+    name: "Roops Jain"
+    email: "roops@gmail.com"
+  onCallSupport:
+    - +91 9374520000
+    - +91 6665553334

@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: ""
+  contactDetails:
+    name: "Sakshi Pargaonkar"
+    email: "sak@gmail.com"
+  onCallSupport:
+    - +91 3333344443
+    - +91 4444333322

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to bankApp related QA APIs"
+  contactDetails:
+    name: "Shruti Pargaonkar"
+    email: "shrutipargaonkar@gmail.com"
+  onCallSupport:
+    - +91 9374520000
+    - +91 6665553334

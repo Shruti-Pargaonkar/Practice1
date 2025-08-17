@@ -1,0 +1,36 @@
+#server:
+#  port: 8090
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driverClassName: org.h2.Driver
+#    username: root
+#    password: Root@123
+#  h2:
+#    console:
+#      enabled: true
+#  jpa:
+#    database-platform: org.hibernate.dialect.H2Dialect
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#
+#  config:
+#    import:
+#      - "accounts-qa.yml"
+#      - "accounts-prod.yml"
+#    profiles:
+#      active:
+#        - "qa"
+
+build:
+  version: "3.3"
+
+loans:
+  message: "Welcome to bankApp related QA APIs"
+  contactDetails:
+    name: "Roops Jain"
+    email: "roops@gmail.com"
+  onCallSupport:
+    - +91 9374520000
+    - +91 6665553334
