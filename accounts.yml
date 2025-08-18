@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to bankApp related dock APIs"
+  message: "Welcome to bankApp related local APIs"
   contactDetails:
     name: "Shruti Pargaonkar"
     email: "shrutipargaonkar@gmail.com"
